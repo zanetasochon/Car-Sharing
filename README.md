@@ -4,7 +4,6 @@ This project is a simple one-page landing page for a car sharing service.
 
 It was designed to showcase the features of the car sharing service and encourage potential customers to sign up.
 
-Website was created to demonstrate the use of HTML5 and CSS3 technologies.
 
 ## Project
 
